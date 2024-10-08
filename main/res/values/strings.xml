@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">유무선 시험용앱</string>
+    <string name="app_name">유무선 시험기</string>
+    <string name="devices">USB Devices</string>
+</resources>
